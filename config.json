@@ -1,14 +1,14 @@
 {
   "new_method": false,
-  "min_version": "3.2.0",
+  "old_method": true,
   "features": {
     "old_method": true,
     "new_method": false,
     "auto_privacy": true
   },
   "message": {
-    "en": "All features working normally",
-    "ru": "Все функции работают нормально"
+    "en": "New method temporarily disabled",
+    "ru": "Новый метод временно отключен"
   },
   "notifications": {
     "enabled": false,
