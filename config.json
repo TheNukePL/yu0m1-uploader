@@ -1,6 +1,6 @@
 {
-  "new_method": false,
-  "old_method": false,
+  "new_method": true,
+  "old_method": true,
   "min_version": "3.2.2",
   "features": {
     "old_method": true,
