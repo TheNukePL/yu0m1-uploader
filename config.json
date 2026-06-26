@@ -1,11 +1,11 @@
 {
   "new_method": true,
   "old_method": true,
-  "panel_locked": false
+  "panel_locked": true
   "features": {
     "old_method": true,
     "new_method": true,
-    "panel_locked": false
+    "panel_locked": true
   },
   "message": {
     "en": "New method temporarily disabled",
