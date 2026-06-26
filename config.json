@@ -1,5 +1,5 @@
 {
-  "new_method": true,
+  "new_method": false,
   "min_version": "3.2.2",
   "features": {
     "old_method": true,
