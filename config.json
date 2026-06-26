@@ -1,8 +1,8 @@
 {
   "new_method": true,
-  "old_method": true,
+  "old_method": false,
   "features": {
-    "old_method": true,
+    "old_method": false,
     "new_method": true,
     "auto_privacy": true
   },
