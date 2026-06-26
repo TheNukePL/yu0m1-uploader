@@ -3,7 +3,7 @@
   "min_version": "3.2.0",
   "features": {
     "old_method": true,
-    "new_method": true,
+    "new_method": false,
     "auto_privacy": true
   },
   "message": {
