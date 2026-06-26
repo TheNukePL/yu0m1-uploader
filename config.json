@@ -1,9 +1,10 @@
 {
   "new_method": false,
+  "old_method": false,
   "version": "1.0.0",
   "features": {
-    "old_method": false,
-    "new_method": false,
+    "old_method": true,
+    "new_method": true,
     "auto_privacy": true
   },
   "message": {
