@@ -1,9 +1,9 @@
 {
-  "new_method": false,
+  "new_method": true,
   "old_method": true,
   "features": {
     "old_method": true,
-    "new_method": false,
+    "new_method": true,
     "auto_privacy": true
   },
   "message": {
