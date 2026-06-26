@@ -1,0 +1,17 @@
+{
+  "new_method": true,
+  "version": "1.0.0",
+  "features": {
+    "old_method": true,
+    "new_method": true,
+    "auto_privacy": true
+  },
+  "message": {
+    "en": "All features working normally",
+    "ru": "Все функции работают нормально"
+  },
+  "notifications": {
+    "enabled": false,
+    "text": ""
+  }
+}
