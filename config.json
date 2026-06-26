@@ -3,7 +3,7 @@
   "old_method": true,
   "features": {
     "old_method": true,
-    "new_method": false,
+    "new_method": false
   },
   "message": {
     "en": "New method temporarily disabled",
