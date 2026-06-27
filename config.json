@@ -11,6 +11,7 @@
   },
   "notifications": {
     "enabled": true,
-    "text": "Method doesn't worked"
+    "type": "error",
+    "text": "New method disabled"
   }
 }
