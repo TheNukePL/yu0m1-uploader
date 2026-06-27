@@ -1,13 +1,4 @@
 {
   "new_method": true,
-  "old_method": true,
-
-  "notifications": {
-    "enabled": true,
-    "type": "error",
-    "text": {
-      "en": "This beta-test",
-      "ru": "Это бета-тест"
-    }
-  }
+  "old_method": true
 }
