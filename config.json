@@ -10,7 +10,7 @@
     "ru": "Новый метод временно отключен"
   },
   "notifications": {
-    "enabled": true,
+    "enabled": false,
     "type": "error",
     "text": "New method disabled"
   }
