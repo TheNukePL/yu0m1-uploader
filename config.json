@@ -2,19 +2,12 @@
   "new_method": true,
   "old_method": false,
 
-  "features": {
-    "old_method": false,
-    "new_method": true
-  },
-
-  "message": {
-    "en": "New method temporarily disabled",
-    "ru": "Новый метод временно отключен"
-  },
-
   "notifications": {
-    "enabled": false,
+    "enabled": true,
     "type": "error",
-    "text": "New method disabled"
+    "text": {
+      "en": "New method temporarily disabled",
+      "ru": "Новый метод временно отключен"
+    }
   }
 }
