@@ -1,6 +1,6 @@
 {
-  "new_method": false,
-  "old_method": false,
+  "new_method": true,
+  "old_method": true,
 
   "notifications": {
     "enabled": true,
