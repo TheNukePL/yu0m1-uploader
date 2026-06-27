@@ -1,7 +1,7 @@
 {
   "methods": {
     "old": {
-      "enabled": true
+      "enabled": false
     },
     "new": {
       "enabled": true
