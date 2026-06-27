@@ -3,11 +3,11 @@
   "old_method": true,
 
   "notifications": {
-    "enabled": false,
+    "enabled": true,
     "type": "error",
     "text": {
-      "en": "sosiski",
-      "ru": "sosiski"
+      "en": "This beta-test",
+      "ru": "Это бета-тест"
     }
   }
 }
