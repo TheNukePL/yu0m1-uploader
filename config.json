@@ -13,7 +13,7 @@
   },
 
   "notifications": {
-    "enabled": false,
+    "enabled": true,
     "type": "error",
     "text": "New method disabled"
   }
