@@ -3,7 +3,7 @@
   "old_method": true,
 
   "notifications": {
-    "enabled": true,
+    "enabled": false,
     "type": "error",
     "text": {
       "en": "sosiski",
