@@ -4,7 +4,7 @@
 
   "notifications": {
     "enabled": true,
-    "type": "JK",
+    "type": "good",
     "text": {
       "en": "sosiski",
       "ru": "sosiski"
