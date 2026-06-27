@@ -4,10 +4,10 @@
 
   "notifications": {
     "enabled": true,
-    "type": "error",
+    "type": "JK",
     "text": {
-      "en": "New method temporarily disabled",
-      "ru": "Новый метод временно отключен"
+      "en": "sosiski",
+      "ru": "sosiski"
     }
   }
 }
